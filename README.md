@@ -1,11 +1,12 @@
 # Orca Design Skills
 
-Reusable Codex skills for turning software design questions into practical, reviewable architecture.
+Reusable Codex skills for turning software design questions into practical, reviewable architecture and code reviews.
 
 ## Included skills
 
 - `skills/low-level-design` - Object-oriented design for machine-coding and interview problems: requirements, responsibilities, invariants, SOLID, patterns, UML, and concurrency.
 - `skills/high-level-design` - Distributed-system architecture: workload estimates, data ownership, storage, reliability, replication, partitioning, consistency, processing, observability, and safe evolution.
+- `skills/pr-review` - Pull request review for correctness, concurrency, idempotency, failure handling, and test evidence.
 
 ## Why this exists
 
